@@ -19,18 +19,18 @@ This project consists of a system for detecting toxic and harmful gases in a lab
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/AlexGR10/SafeLab.git
+    git clone https://github.com/ChrisUbario/ProjectApp.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd SafeLab
+    cd ProjectApp
     ```
+
 
 3. **Mobile Setup**:
     ```sh
-    cd mobile
     npm install
-    npx react-native run-android  # or run-ios
+    npm start
     ```
 
 ## License
