@@ -26,22 +26,12 @@ This project consists of a system for detecting toxic and harmful gases in a lab
     cd SafeLab
     ```
 
-3. **Web Setup**:
-    ```sh
-    cd web
-    npm install
-    npm start
-    ```
-
-4. **Mobile Setup**:
+3. **Mobile Setup**:
     ```sh
     cd mobile
     npm install
     npx react-native run-android  # or run-ios
     ```
-
-5. **ESP32 Setup**:
-    - Upload the code from the `esp32` directory to the ESP32 using the Arduino IDE.
 
 ## License
 
