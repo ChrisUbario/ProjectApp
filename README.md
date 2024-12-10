@@ -4,16 +4,12 @@ This project consists of a system for detecting toxic and harmful gases in a lab
 
 ## Project Structure
 
-- **web**: Web application developed in React.js for visualizing and managing sensor data.
 - **mobile**: Mobile application developed in React Native for monitoring sensor data from anywhere.
-- **esp32**: Arduino code for configuring and reading the gas sensors connected to the ESP32.
 
 ## Technologies Used
 
 - **Firebase**: For authentication and real-time data storage.
-- **React.js**: For the web interface.
 - **React Native**: For the mobile application.
-- **Arduino**: For ESP32 configuration and sensor reading.
 
 ## Installation and Setup
 
